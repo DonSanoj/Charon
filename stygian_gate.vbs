@@ -1,0 +1,1 @@
+' Main code for the stealth start 
